@@ -1,4 +1,5 @@
 # Blockchain-Based-Property-Registration
+
 <a href="LICENSE"><img src="https://img.shields.io/static/v1?label=license&message=MIT&color=green"></a>
 <img src="https://img.shields.io/badge/Ethereum-20232A?style=for-the-badge&logo=ethereum&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
@@ -68,6 +69,7 @@ truffle migrate
 8. Run the flutter web app
 ```
 flutter pub get
+
 flutter run -d web-server --web-port 5555
 ```
 9. Open the browser and the dapp will be running in http://localhost:5555/
@@ -75,6 +77,7 @@ flutter run -d web-server --web-port 5555
 11. Create nftstorage api key from https://nft.storage/ and replace it.
 ## Project Flowchart
 <img src="screenshots/flowchart.png" height="450">
+
 ## Screenshots
 Home Page                   |                   Wallet connect/Login
 :---------------------------------:        |      :------------------------------:
@@ -103,7 +106,3 @@ Received Request           |                   Make Payment
 Transfer ownership,Seller,buyer photo capture   |                Witness info,photo capture,transfer ownership 
 :---------------------------------:        |      :------------------------------:
 <img src="screenshots/Screenshot14.png" height="225">     |<img src="screenshots/Screenshot13.png" height="225">
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
